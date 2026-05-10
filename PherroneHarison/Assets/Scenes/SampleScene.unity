@@ -321,7 +321,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 557c436ca95c004498ca81627bbc2f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentAge: 30
+  addedAge: 1
+  pi: 3.14
+  firstName: Harisson
+  money: 12.5
+  isAuthor: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
